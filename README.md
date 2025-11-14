@@ -1,5 +1,4 @@
 # GPU-Powered Neural Style Transfer (PyTorch)
-
 ## Overview
 This project demonstrates GPU acceleration using PyTorch. 
 It applies artistic style transfer to an image — combining the content of one image with the style of another — using a deep neural network (VGG19) that runs entirely on GPU.
